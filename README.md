@@ -1,10 +1,3 @@
 # artemis-demo
-Dispatcher and Receiver example over Artemis MQ using Java Spring Boot
+Dispatcher and Receiver example over Artemis MQ using Java Spring Boot. This application is named marshalling application and it's main function a to be a producter by connecting to artemis MQ. It's have also a file named index to load
 
-# YouTube
-
-Watch the tutorial on YouTube
-
-[![Watch the tutorial on YouTube](https://img.youtube.com/vi/2FVXUvrtBr4/maxresdefault.jpg)](https://youtu.be/2FVXUvrtBr4)
-
-[![Watch the tutorial on YouTube](https://img.youtube.com/vi/_PM4II2LBr0/maxresdefault.jpg)](https://youtu.be/_PM4II2LBr0)

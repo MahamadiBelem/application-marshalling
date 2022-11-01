@@ -5,10 +5,10 @@ import org.slf4j.LoggerFactory;
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Service;
 
-/****************************************
- * 
+/********************************************
+ * here is a kind of receiver with a listener
  * Author: Mahamadi BELEM
- ****************************************/
+ ********************************************/
 
 
 @Service
